@@ -1,9 +1,9 @@
-#+title: README.org
+#+title: ecalc.nvim
 #+author: JanSzo
 
 * The Emacs calc in neovim
 
-* Roadmap (will probaly do in like half a year)
-** TODO add config options
-** TODO refine the interface
-** TODO add the 'trail' window
+** Roadmap (will probaly do in like half a year)
+    - add config options
+    - refine the interface
+    - add the 'trail' window
